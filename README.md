@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**TacosDeReno/TacosDeReno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Horario
+| Hora    | Lunes | Martes | Miercoles | Jueves | Viernes |
+|---------|-------|--------|-----------|--------|---------|
+| 7:00 AM | CV    | MYRDC  | MYRDC     | FIS 2  | MYRDC   |
+| 8:00 AM | FIS 2 | BIO 2  | BIO 2     | AFDR 4 | BIO 2   |
+| 9:00 AM | MAT 4 | FIS 2  | LIT 2     | MAT 4  | MAT 4   |
