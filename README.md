@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Horario
-| Hora    | Lunes | Martes | Miercoles | Jueves | Viernes |
-|---------|-------|--------|-----------|--------|---------|
-| 7:00 AM | CV    | MYRDC  | MYRDC     | FIS 2  | MYRDC   |
-| 8:00 AM | FIS 2 | BIO 2  | BIO 2     | AFDR 4 | BIO 2   |
-| 9:00 AM | MAT 4 | FIS 2  | LIT 2     | MAT 4  | MAT 4   |
+| Hora                  | Lunes                 | Martes                           | Miercoles                        | Jueves                                         | Viernes                          |
+|-----------------------|-----------------------|----------------------------------|----------------------------------|------------------------------------------------|----------------------------------|
+| 7:00 - 7:50           | COMUNIDADES VIRTUALES | MANTENIMIENTO Y REDES DE CÓMPUTO | MANTENIMIENTO Y REDES DE CÓMPUTO | FÍSICA II                                      | MANTENIMIENTO Y REDES DE CÓMPUTO |
+| 7:55 - 8:45           | FÍSICA II             | Biología 2                       | Biología 2                       | ACTIVIDADES FÍSICAS DEPORTIVAS Y RECREATIVAS 4 | Biología 2                       |
+| 8:50 - 9:40           | MATEMÁTICAS IV        | FÍSICA II                        | LITERATURA II                    | MATEMÁTICAS IV                                 | MATEMÁTICAS IV                   |
+| 9:45 - 10:35          | LITERATURA II         | MATEMÁTICAS IV                   | FÍSICA II                        | MANTENIMIENTO Y REDES DE CÓMPUTO               | FÍSICA II                        |
+| RECESO  10:35 - 11:05 |                       |                                  |                                  |                                                |                                  |
+| 11:05 - 11:55         | INGLÉS IV             | COMUNIDADES VIRTUALES            | ORIENTACIÓN EDUCATIVA IV         | INGLÉS IV                                      | HISTORIA DE MÉXICO II            |
+| 12:00 - 12:50         | HISTORIA DE MÉXICO II | COMUNIDADES VIRTUALES            | MATEMÁTICAS IV                   | HISTORIA DE MÉXICO II                          | LITERATURA II                    |
+| 12:55 - 13:45         |                       |                                  |                                  | BIOLOGÍA II                                    | INGLÉS IV                        |
