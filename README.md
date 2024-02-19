@@ -1,6 +1,6 @@
 ### Hola pibes 👋
 
-Tengo 16 años, actualmente estoy estudiando la preparatoria
+Tengo 17 años, actualmente estoy estudiando la preparatoria
 me gustan muchas cosas, incluidas la comida, la computación,
 los videojuegos como "The legend of Zelda", "Pokemon" o "Kirby".
 Soy coleccionista de juegos de cartas, y disfruto de obras maestras
